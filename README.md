@@ -50,7 +50,7 @@
   * 🔗 [Live Demo](https://frontend-bde.vercel.app/) | 💻 [Front-end Code](https://github.com/AITABBOUyoussef/frontend-bde) | ⚙️ [Back-end Code](https://github.com/AITABBOUyoussef/bde-events)
 * **📅 Reservy** - A robust reservation and booking management system.
   * 💻 [Front-end Code](https://github.com/AITABBOUyoussef/reservy-frontend) | ⚙️ [Back-end Code](https://github.com/AITABBOUyoussef/reservy-backend)
-* **🤝 [LinkUp](https://github.com/AITABBOUyoussef/Linkup)** - A professional networking web application featuring interactive feeds and user connections.
+* **🤝 [Linkup](https://github.com/AITABBOUyoussef/Linkup)** - A professional networking platform built with Laravel, featuring a unified activity feed (posts & reposts), profile management, and a connection request system.
 * **🎮 [GameVault](https://github.com/AITABBOUyoussef/GameVault)** - An interactive E-commerce platform for video games.
 * **💼 [Personal Portfolio](https://github.com/AITABBOUyoussef/portfolio-youssef)** - My personal space showcasing my projects, skills, and journey as a developer.
 
